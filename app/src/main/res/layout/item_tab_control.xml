@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/ll_all"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_margin="2dp"
+        android:id="@+id/tv_music_name"
+        android:layout_width="56dp"
+        android:gravity="center"
+        android:background="@drawable/selector_counter_all"
+        android:layout_height="56dp"/>
+
+
+</LinearLayout>
